@@ -1,0 +1,12 @@
+1 - Criar repositorio no git hub
+2 - Inicializar a pasta com o comando " git init "
+3 - Dar o comando " git status " para mostrar os arquivos não subidos ou atualizados
+4 - Dar o comando " git add . " para atualizar repositório
+5 - Dar o comando " git status " para vizualizar se está tudo ok
+6 - Dar o " git commit -m " local, e ao lado por um nome dentro das aspas duplas, por exemplo: "Primeiro commit"
+7 - Dar o comando " git clone " junto com o link da pasta em nuvem
+8 - Criei uma alteração na pasta onde foi inicializada
+8 - Dei um " git add . "
+9 - Dei um git status
+10 - Dei um git commit -m "Segundo Commit"
+11 - Depois dei o comando git push https://github.com/Dhon18/Novo-Projeto-POO.git master
